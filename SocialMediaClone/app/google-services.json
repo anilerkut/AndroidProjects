@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "125025334138",
+    "project_id": "socialmediaclone-c837b",
+    "storage_bucket": "socialmediaclone-c837b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125025334138:android:39fde8edd85ab2ac825cc3",
+        "android_client_info": {
+          "package_name": "com.anilerkut.socialmediaclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125025334138-ea5lmjdlrtbkqmdj51oul2kecl44pa35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOahsAESO90LKa0AdPfXYzD-8w0Tiv1_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125025334138-ea5lmjdlrtbkqmdj51oul2kecl44pa35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
